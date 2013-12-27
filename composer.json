@@ -1,0 +1,26 @@
+{
+    "name": "Intval/IncapsulaIpFixer",
+    "description": "Extracts real client ip hidden by incapsula proxy",
+    "minimum-stability": "dev",
+    "license": "BSD Licence",
+    "keywords": ["incapsula", "proxy"],
+    "homepage": "https://github.com/intval/IncapsulaIpFixer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Intval",
+            "email": "intval@phpguide.co.il"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~3.7.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Intval": "src/"
+        }
+    }
+}
