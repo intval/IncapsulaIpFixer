@@ -1,7 +1,7 @@
 {
     "name": "intval/incapsula-ip-fixer",
     "description": "Extracts real client ip hidden by incapsula proxy",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "BSD Licence",
     "keywords": ["incapsula", "proxy"],
     "homepage": "https://github.com/intval/IncapsulaIpFixer",
