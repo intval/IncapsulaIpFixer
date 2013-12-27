@@ -1,5 +1,5 @@
 {
-    "name": "Intval/IncapsulaIpFixer",
+    "name": "intval/incapsula-ip-fixer",
     "description": "Extracts real client ip hidden by incapsula proxy",
     "minimum-stability": "dev",
     "license": "BSD Licence",
