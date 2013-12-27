@@ -1,7 +1,7 @@
 {
+    "version": "1.0.0",
     "name": "intval/incapsula-ip-fixer",
     "description": "Extracts real client ip hidden by incapsula cdn, while prevents ip spoofing",
-    "minimum-stability": "stable",
     "license": "BSD Licence",
     "keywords": ["incapsula", "proxy"],
     "homepage": "https://github.com/intval/IncapsulaIpFixer",
